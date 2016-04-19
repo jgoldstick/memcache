@@ -1,0 +1,2 @@
+# memcache
+django memcache experiment
